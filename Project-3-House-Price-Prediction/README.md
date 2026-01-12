@@ -43,5 +43,5 @@ The model shows a reasonable relationship between actual and predicted house pri
 # Conclusion
 This project helped strengthen my understanding of regression models, feature selection, and model evaluation techniques through hands-on implementation.
 
-# Internship: Oasis Infobyte  
-# Domain: Data Analytics
+ Internship: Oasis Infobyte  
+ Domain: Data Analytics
